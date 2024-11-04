@@ -10,8 +10,9 @@ public class SummationPractice {
         toSum.add(9);
         toSum.add(4);
         toSum.add(3);
+        int summed = summation(toSum);
 
-        System.out.println(summation(toSum));
+        System.out.println(summed);
 
 
 
